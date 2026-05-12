@@ -1,0 +1,9 @@
+{
+    "name": "Project Eclipse",
+    "description": "Persistent Zombies RPG progression system with leveling, skills, loadouts, and weapon mastery",
+    "author": "RESURRECTIONGRIMMJOW",
+    "version": "1.0",
+    "type": "mod",
+    "game": "t7",
+    "tags": ["zombies", "rpg", "progression", "stats"]
+}
