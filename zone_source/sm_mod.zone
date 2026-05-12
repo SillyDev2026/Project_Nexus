@@ -1,0 +1,8 @@
+>mode,zm
+>type,common
+
+scriptparsetree,scripts/zm/core.gsc
+scriptparsetree,scripts/zm/progression.gsc
+scriptparsetree,scripts/zm/gameplay.gsc
+scriptparsetree,scripts/zm/ui.gsc
+scriptparsetree,scripts/zm/_eclipse_boot.gsc
